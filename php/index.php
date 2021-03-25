@@ -1,9 +1,4 @@
-<?php
 
- $conn = mysqli_connect('localhost','root','','from');
- 
-
-?>
 
 <html lang="en">
 <head>
